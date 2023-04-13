@@ -1,0 +1,17 @@
+.location{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    &__title{
+        display: flex;
+        align-items: center;
+        line-height: 1;
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+        font-weight: 500;
+        
+        svg{
+            color: var(--primary-icon-color);
+        }
+    }
+}

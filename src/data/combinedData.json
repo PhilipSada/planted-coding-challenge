@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Neu-Ulm",
+        "latitude": 48.4,
+        "longitude": 10.0167,
+        "closestProjects": [
+            {
+                "name": "Factor Product",
+                "distance": 134.0654121275931
+            },
+            {
+                "name": "Factor Product",
+                "distance": 134.0654121275931
+            },
+            {
+                "name": "Pfälzerwald",
+                "distance": 184.74255659572057
+            }
+        ]
+    },
+    {
+        "name": "Koblenz am Rhein",
+        "latitude": 50.35,
+        "longitude": 7.6,
+        "closestProjects": [
+            {
+                "name": "Pflanzung Hansenkopf",
+                "distance": 45.61286658153083
+            },
+            {
+                "name": "Pflanzung Hansenkopf",
+                "distance": 45.61286658153083
+            },
+            {
+                "name": "Pflanzung Hohe Wurzel",
+                "distance": 46.32398373445391
+            }
+        ]
+    },
+    {
+        "name": "Ilmenau",
+        "latitude": 50.6833,
+        "longitude": 10.9,
+        "closestProjects": [
+            {
+                "name": "Bäume pflanzen im Sauerland",
+                "distance": 191.09666363512792
+            },
+            {
+                "name": "Bäume pflanzen im Sauerland",
+                "distance": 191.09666363512792
+            },
+            {
+                "name": "Bäume pflanzen im Sauerland",
+                "distance": 191.09666363512792
+            }
+        ]
+    },
+    {
+        "name": "Potsdam",
+        "latitude": 52.39384,
+        "longitude": 13.07368,
+        "closestProjects": [
+            {
+                "name": "Pflanzung mit Jugendlichen im Holter Wald",
+                "distance": 309.52108081893954
+            },
+            {
+                "name": "Pflanzung mit Jugendlichen im Holter Wald",
+                "distance": 309.52108081893954
+            },
+            {
+                "name": "Bäume pflanzen im Sauerland",
+                "distance": 364.07032170679685
+            }
+        ]
+    },
+    {
+        "name": "Saarbrücken",
+        "latitude": 49.2333,
+        "longitude": 7,
+        "closestProjects": [
+            {
+                "name": "Pfälzerwald",
+                "distance": 79.82685620289466
+            },
+            {
+                "name": "Pfälzerwald",
+                "distance": 81.84118170763423
+            },
+            {
+                "name": "Pfälzerwald",
+                "distance": 81.94806617959861
+            }
+        ]
+    },
+    {
+        "name": "Königstein im Taunus",
+        "latitude": 50.1833,
+        "longitude": 8.46667,
+        "closestProjects": [
+            {
+                "name": "Wella Firmenwald",
+                "distance": 20.542636561772483
+            },
+            {
+                "name": "Wella Firmenwald",
+                "distance": 20.542636561772483
+            },
+            {
+                "name": "Wella Firmenwald",
+                "distance": 20.542636561772483
+            }
+        ]
+    },
+    {
+        "name": "Bad Kreuznach",
+        "latitude": 49.8333,
+        "longitude": 7.86667,
+        "closestProjects": [
+            {
+                "name": "Pflanzung Hansenkopf",
+                "distance": 32.338660952974514
+            },
+            {
+                "name": "Pflanzung Hansenkopf",
+                "distance": 32.338660952974514
+            },
+            {
+                "name": "Pflanzung Hohe Wurzel",
+                "distance": 36.267436350959
+            }
+        ]
+    },
+    {
+        "name": "Krebeck",
+        "latitude": 51.58836,
+        "longitude": 10.12105,
+        "closestProjects": [
+            {
+                "name": "Pflanzung mit Jugendlichen im Holter Wald",
+                "distance": 109.25429208300524
+            },
+            {
+                "name": "Pflanzung mit Jugendlichen im Holter Wald",
+                "distance": 109.25429208300524
+            },
+            {
+                "name": "Bäume pflanzen im Sauerland",
+                "distance": 143.01350293646817
+            }
+        ]
+    },
+    {
+        "name": "Bergisch Gladbach",
+        "latitude": 50.9833,
+        "longitude": 7.13333,
+        "closestProjects": [
+            {
+                "name": "Pflanzung im Königsforst",
+                "distance": 4.498233654917623
+            },
+            {
+                "name": "Pflanzung im Königsforst",
+                "distance": 4.504555025030681
+            },
+            {
+                "name": "Bäume pflanzen im Königsforst",
+                "distance": 4.589503381755491
+            }
+        ]
+    },
+    {
+        "name": "Wetzlar",
+        "latitude": 50.55,
+        "longitude": 8.5,
+        "closestProjects": [
+            {
+                "name": "Wella Firmenwald",
+                "distance": 51.37583899178969
+            },
+            {
+                "name": "Wella Firmenwald",
+                "distance": 51.37583899178969
+            },
+            {
+                "name": "Wella Firmenwald",
+                "distance": 51.37583899178969
+            }
+        ]
+    }
+]
