@@ -13,7 +13,7 @@ describe("Home Page", () => {
 
   })
 
-  it("shows all the plantation projects displayed", async () => {
+  it("shows all the plantation projects", async () => {
     const project = await screen.findAllByTestId('project');
     expect(project).toHaveLength(30);
   })
