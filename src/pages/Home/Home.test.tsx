@@ -16,7 +16,6 @@ describe("Home Page", () => {
   it("shows all the plantation projects displayed", async () => {
     const project = await screen.findAllByTestId('project');
     expect(project).toHaveLength(30);
-    // expect(project).toHaveLength(30);
   })
 
   it("renders a search box that filters the locations", async () => {
@@ -26,8 +25,6 @@ describe("Home Page", () => {
 
 
     fireEvent.change(searchInput, { target: { value: 'Potsdam' } });
-    // expect(handleChange).toBeCalled();
-    screen.debug()
 
     expect(searchInput.value).toBe('Potsdam');
 
